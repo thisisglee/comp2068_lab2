@@ -1,0 +1,2 @@
+# comp2068_lab2
+LAB 2 Gurleen Singh JAVASCRIPT FRAMEWORKS

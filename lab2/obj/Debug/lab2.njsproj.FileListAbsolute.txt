@@ -1,0 +1,2 @@
+C:\Users\gurle\source\repos\lab2_js\lab2\obj\Debug\lab2.njsprojAssemblyReference.cache
+C:\Users\gurle\source\repos\lab2_js\lab2\bin\Microsoft.NodejsTools.WebRole.dll
